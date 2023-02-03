@@ -2,16 +2,17 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '7329c306264c4d94a09bf28f299b7a03',
+  //https://acoustic-mistake-0d5.notion.site/MyBlog-7329c306264c4d94a09bf28f299b7a03
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'ysl',
+  domain: 'https://acoustic-mistake-0d5.notion.site/MyBlog-7329c306264c4d94a09bf28f299b7a03',
+  author: 'ysl',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
