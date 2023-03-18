@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7329c306264c4d94a09bf28f299b7a03',
+  rootNotionPageId: '44215b9ae4aa4502ba3c837aed7de70e',
   //https://acoustic-mistake-0d5.notion.site/MyBlog-7329c306264c4d94a09bf28f299b7a03
 
   // if you want to restrict pages to a single notion workspace (optional)
@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ysl',
-  domain: 'https://acoustic-mistake-0d5.notion.site/MyBlog-7329c306264c4d94a09bf28f299b7a03',
+  domain: 'https://acoustic-mistake-0d5.notion.site/Wave-Studio-44215b9ae4aa4502ba3c837aed7de70e',
   author: 'ysl',
 
   // open graph metadata (optional)
