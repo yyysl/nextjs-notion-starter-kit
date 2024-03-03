@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ysl',
-  domain: 'https://acoustic-mistake-0d5.notion.site/Wave-Studio-44215b9ae4aa4502ba3c837aed7de70e',
+  domain: 'https://acoustic-mistake-0d5.notion.site/7329c306264c4d94a09bf28f299b7a03',
   author: 'ysl',
 
   // open graph metadata (optional)
